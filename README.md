@@ -1,7 +1,7 @@
 Hi 👋 My name is Zuhran Ahmed
 =============================
 
-Front-end Web Developer
+Front-end & UI Developer
 -----------------------
 
 I’m a self-taught Front-end Web Developer with 2+ years of professional experience. I have a good background in building responsive and user-friendly user interfaces. My experience has given me a good understanding of the web development process, and I am confident in my ability to deliver high-quality work.
