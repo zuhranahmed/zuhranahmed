@@ -9,8 +9,7 @@ I’m a self-taught Front-end Web Developer with 2+ years of professional experi
 👨‍💻Technical Skills and Tools: HTML, CSS, SASS(SCSS), JavaScript, Bootstrap, Tailwind CSS, Git, GitHub, Node Package Manager(NPM), and experience in working with the MEAN and MERN tech stacks. Also, comfortable with design tools such as Figma, Adobe XD, and Webflow.
 
 *   🌍  I'm based in Lahore, Pakistan
-*   🖥️  See my portfolio at [My Portfolio](http://zuhranahmed.com)
-*   ✉️  You can contact me at [zuhranahmed@protonmail.com](mailto:zuhranahmed@protonmail.com)
+*   ✉️  You can contact me at [zuhranahmed@gmail.com](mailto:zuhranahmed@gmail.com)
 *   🧠  I'm learning React JS and Webflow
 *   ⚡  I am big Football fan.....and I support Real Madrid. Also, you'll find me playing Valorant on weekends.
 <p align="left">
