@@ -6,7 +6,7 @@ Front-end & UI Developer
 
 I’m a self-taught Front-end Web Developer with 2+ years of professional experience. I have a good background in building responsive and user-friendly user interfaces. My experience has given me a good understanding of the web development process, and I am confident in my ability to deliver high-quality work.
 
-👨‍💻Technical Skills and Tools: HTML, CSS, SASS(SCSS), JavaScript, Bootstrap, Tailwind CSS, Git, GitHub, Node Package Manager(NPM), and experience in working with the MEAN and MERN tech stacks. Also, comfortable with design tools such as Figma, Adobe XD, and Webflow.
+👨‍💻Technical Skills and Tools: HTML, CSS, SASS(SCSS), JavaScript, Bootstrap, Tailwind CSS, Styled-components, Git, GitHub, Git bash and command line, Node Package Manager(NPM), Yarn, and experience in working with the MEAN and MERN tech stacks. Also, comfortable with design tools such as Figma, Adobe XD, and Webflow.
 
 *   🌍  I'm based in Lahore, Pakistan
 *   ✉️  You can contact me at [zuhranahmed@gmail.com](mailto:zuhranahmed@gmail.com)
