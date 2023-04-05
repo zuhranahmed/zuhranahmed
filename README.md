@@ -1,17 +1,12 @@
-Hi 👋 My name is Zuhran Ahmed
-=============================
-
 Front-end & UI Developer
 -----------------------
 
-I’m a self-taught Front-end Web Developer with 2+ years of professional experience. I have a good background in building responsive and user-friendly user interfaces. My experience has given me a good understanding of the web development process, and I am confident in my ability to deliver high-quality work.
+I’m a self-taught Front-end Web Developer with 2+ years of professional experience. I have a good background in building responsive and user-friendly user interfaces. 
 
 👨‍💻Technical Skills and Tools: HTML, CSS, SASS(SCSS), JavaScript, Bootstrap, Tailwind CSS, Styled-components, Git, GitHub, Git bash and command line, Node Package Manager(NPM), Yarn, and experience in working with the MEAN and MERN tech stacks. Also, comfortable with design tools such as Figma, Adobe XD, and Webflow.
 
 *   🌍  I'm based in Lahore, Pakistan
 *   ✉️  You can contact me at [zuhranahmed@gmail.com](mailto:zuhranahmed@gmail.com)
-*   🧠  I'm learning React JS and Webflow
-*   ⚡  I am big Football fan.....and I support Real Madrid. Also, you'll find me playing Valorant on weekends.
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
