@@ -1,4 +1,4 @@
-Front-end Web & Webflow Developer
+Front-end Web Developer
 -----------------------
 
 Front-end Developer with 3 years of professional experience. I have a good background in building responsive and user-friendly user interfaces. 
